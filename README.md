@@ -1,4 +1,4 @@
 # About
-This repository, created by Z. Huang, introduces a new methodology for on-device learning.
+This repository, created by Z. Huang, introduces a novel network, Kolmogorov-Arnold Networks (KANs), applied to ECG data.
 
-### Generalization Challenges in ECG Deep Learning: Insights from Dataset Characteristics and Attention Mechanism ([Paper](https://doi.org/10.1080/14796678.2024.2354082))
+### ECG KAN: Unleashing the Potential of Electrocardiogram Analysis with Kolmogorov-Arnold Networks
